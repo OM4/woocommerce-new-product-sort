@@ -61,7 +61,7 @@ if ( ! class_exists( 'WC_New_Product_Sort' ) ) {
 		 */
 		private function __construct() {
 
-			add_filter( 'wp_insert_post_data', array( $this, 'wp_insert_post_data', 10, 2 ) );
+			add_filter( 'wp_insert_post_data', array( $this, 'wp_insert_post_data' ), 10, 2 );
 		}
 
 		/**
