@@ -3,9 +3,9 @@
 Plugin Name: WooCommerce - New Product Sort Order
 Plugin URI: https://github.com/OM4/woocommerce-new-product-sort
 Description: When adding a new WooCommerce product, automatically move it to the last item in the drag & drop sort order.
-Version: 0.1
+Version: 0.2
 Author: OM4
-Author URI: http://om4.com.au/
+Author URI: https://om4.com.au/plugins/
 Text Domain: woocommerce-new-product-sort
 Git URI: https://github.com/OM4/woocommerce-new-product-sort
 Git Branch: release
@@ -13,7 +13,7 @@ License: GPLv2
 */
 
 /*
-Copyright 2014 OM4 (email: info@om4.com.au    web: http://om4.com.au/)
+Copyright 2014-2016 OM4 (email: plugins@om4.com.au    web: https://om4.com.au/)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
